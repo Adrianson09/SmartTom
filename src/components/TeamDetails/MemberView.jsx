@@ -7,8 +7,8 @@ function MemberView() {
             <div className="container">
                 <div className="t-member-details__container">
                     <div className="member-info">
-                        <h3 className="m-name">Deniella Rhodes</h3>
-                        <span className="m-desig">CEO of Antech</span>
+                        <h3 className="m-name">Tomás Azofeifa</h3>
+                        <span className="m-desig">CEO of SmartTom</span>
                         <ul className="m-info-list">
                             <li>
                 <span className="title">Position:</span
@@ -20,15 +20,15 @@ function MemberView() {
                             </li>
                             <li>
                 <span className="title">Experience:</span
-                ><span className="value">10 Years</span>
+                ><span className="value">+10 Years</span>
                             </li>
                             <li>
                 <span className="title">Email:</span
-                ><span className="value">infoyour@mail.com</span>
+                ><span className="value">tomazoque@outlook.com</span>
                             </li>
                             <li>
                 <span className="title">Phone:</span
-                ><span className="value">+1 800 127 86 54</span>
+                ><span className="value">+506 88391171</span>
                             </li>
                         </ul>
                         <ul className="social-icons-s1">

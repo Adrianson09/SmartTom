@@ -16,7 +16,7 @@ function MainSection() {
                                     </div>
                                     <div className="content">
                                         <span>Phone Number</span>
-                                        <h4>+88 ( 5548 ) 6548</h4>
+                                        <h4>+506 8839-1171</h4>
                                     </div>
                                 </Link>
                                 <Link href="mailto:infoyour@gmail.com" className="c-info-box">
@@ -25,7 +25,7 @@ function MainSection() {
                                     </div>
                                     <div className="content">
                                         <span>Email</span>
-                                        <h4>infoyour@gmail.com</h4>
+                                        <h4>tomazoque@outlook.com</h4>
                                     </div>
                                 </Link>
                                 <Link
@@ -37,7 +37,7 @@ function MainSection() {
                                     </div>
                                     <div className="content">
                                         <span>Location</span>
-                                        <h4>81 Circle Kitty New York</h4>
+                                        <h4>Heredia, Costa Rica</h4>
                                     </div>
                                 </Link>
                             </div>
